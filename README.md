@@ -1,4 +1,4 @@
-# git-server-docker
+# git-server
 A lightweight Git Server Docker image built with Alpine Linux. Based on [GitHub](https://github.com/jkarlosb/git-server-docker) and [Docker Hub](https://hub.docker.com/r/jkarlos/git-server-docker/)
 
 
